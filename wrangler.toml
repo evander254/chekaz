@@ -1,3 +1,6 @@
 name = "chekaz"
-pages_build_output_dir = "dist"
+main = "src/worker.js"
 compatibility_date = "2026-07-11"
+
+[assets]
+directory = "./dist"
